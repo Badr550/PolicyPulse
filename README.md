@@ -55,7 +55,7 @@ PDF Upload → Text Extraction → Chunking → Embedding → Vector Store → R
 ## Installation
 
 ```bash
-git clone https:https://github.com/Badr550/PolicyPulse
-cd policypulse
+git clone https://github.com/Badr550/PolicyPulse
+cd PolicyPulse
 pip install -r requirements.txt
 streamlit run app/app.py
